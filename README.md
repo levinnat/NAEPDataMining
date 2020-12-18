@@ -12,6 +12,6 @@ Run DataScraping to generate all features
 <b>Step 3:</b>
 Use ModelBuildingAndPrediction to train the model, generate predictions, and evaluate them against the hidden evaluation data in the EvaluationData folder
 
-<b>Disclaimer:</b> This code was built over a series of months for academic research. There may be small bugs and there are most certainly ineffeciences. I was simultaneously teaching myself data science and working on this project. Any and all feedback/constructive criticism is welcome...but please be kind.
+<b>Disclaimer:</b> This code was built over a series of months for academic research. There may be small bugs, there are probably inefficiencies, and there are most certainly some places where more comments are needed. I was simultaneously teaching myself data science and working on this project. Any and all feedback/constructive criticism is welcome...but please be kind.
 
 <a href="https://doi.org/10.5281/zenodo.4316002"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4316002.svg" alt="DOI"></a>
